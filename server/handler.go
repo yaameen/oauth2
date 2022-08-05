@@ -2,10 +2,10 @@ package server
 
 import (
 	"bytes"
-	"github.com/mikepc/oauth2"
-	"github.com/mikepc/oauth2/errors"
 	"encoding/base64"
 	"github.com/valyala/fasthttp"
+	"github.com/yaameen/oauth2"
+	"github.com/yaameen/oauth2/errors"
 	"strings"
 	"time"
 )

@@ -2,9 +2,9 @@ package generates
 
 import (
 	"bytes"
-	"github.com/mikepc/oauth2"
-	"github.com/mikepc/oauth2/utils/uuid"
 	"encoding/base64"
+	"github.com/yaameen/oauth2"
+	"github.com/yaameen/oauth2/utils/uuid"
 	"strconv"
 	"strings"
 )

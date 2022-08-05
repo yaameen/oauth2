@@ -1,10 +1,10 @@
 package generates
 
 import (
-	"github.com/mikepc/oauth2"
-	"github.com/mikepc/oauth2/errors"
-	"github.com/mikepc/oauth2/utils/uuid"
 	"encoding/base64"
+	"github.com/yaameen/oauth2"
+	"github.com/yaameen/oauth2/errors"
+	"github.com/yaameen/oauth2/utils/uuid"
 	"strings"
 	"time"
 

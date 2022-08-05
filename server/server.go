@@ -2,15 +2,15 @@ package server
 
 import (
 	"bytes"
-	"github.com/mikepc/oauth2"
 	"encoding/json"
 	"fmt"
 	"github.com/valyala/fasthttp"
+	"github.com/yaameen/oauth2"
 	"net/url"
 	"strings"
 	"time"
 
-	"github.com/mikepc/oauth2/errors"
+	"github.com/yaameen/oauth2/errors"
 )
 
 // NewDefaultServer create a default authorization server

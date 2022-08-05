@@ -1,9 +1,8 @@
 package models
 
 import (
-	"github.com/mikepc/oauth2"
+	"github.com/yaameen/oauth2"
 	"time"
-
 )
 
 // NewToken create to token model instance

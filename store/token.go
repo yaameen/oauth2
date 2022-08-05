@@ -1,10 +1,10 @@
 package store
 
 import (
-	"github.com/mikepc/oauth2"
-	"github.com/mikepc/oauth2/models"
-	"github.com/mikepc/oauth2/utils/uuid"
 	"encoding/json"
+	"github.com/yaameen/oauth2"
+	"github.com/yaameen/oauth2/models"
+	"github.com/yaameen/oauth2/utils/uuid"
 	"time"
 
 	"github.com/tidwall/buntdb"

@@ -1,10 +1,9 @@
 package store
 
 import (
-	"github.com/mikepc/oauth2"
 	"errors"
+	"github.com/yaameen/oauth2"
 	"sync"
-
 )
 
 // NewClientStore create client store

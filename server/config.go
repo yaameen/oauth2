@@ -1,8 +1,8 @@
 package server
 
 import (
-	"github.com/mikepc/oauth2"
 	"github.com/valyala/fasthttp"
+	"github.com/yaameen/oauth2"
 	"time"
 )
 

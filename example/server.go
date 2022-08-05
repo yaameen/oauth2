@@ -3,13 +3,13 @@ package main
 import (
 	"github.com/dgrijalva/jwt-go"
 	"github.com/valyala/fasthttp"
+	"github.com/yaameen/oauth2/errors"
+	"github.com/yaameen/oauth2/generates"
+	"github.com/yaameen/oauth2/manage"
+	"github.com/yaameen/oauth2/models"
+	"github.com/yaameen/oauth2/server"
+	"github.com/yaameen/oauth2/store"
 	"log"
-	"github.com/mikepc/oauth2/errors"
-	"github.com/mikepc/oauth2/generates"
-	"github.com/mikepc/oauth2/manage"
-	"github.com/mikepc/oauth2/models"
-	"github.com/mikepc/oauth2/server"
-	"github.com/mikepc/oauth2/store"
 )
 
 func main() {
