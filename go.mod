@@ -1,4 +1,4 @@
-module github.com/mikepc/oauth2
+module github.com/yaameen/oauth2
 
 go 1.14
 
